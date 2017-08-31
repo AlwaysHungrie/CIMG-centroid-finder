@@ -125,7 +125,7 @@ int main()
 {
     cimg::exception_mode(0);
     int input=1;
-    cout<<"Dhairya Shah 65\nMd. Shahdab Khan 51\nYash Jain 46\n"<<endl;
+    cout<<"Dhairya Shah "<<endl;
     cout<<"***Centroid finder***\nNotes:\n 1)All images have to be closed and black-white\n 2)All images must be in bmp format."<<endl;
     A:;
     try{
